@@ -1,0 +1,4 @@
+/home/msi/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7142.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/msi/Рабочий стол/untitled1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msi/Рабочий стол/untitled1/cmake-build-debug

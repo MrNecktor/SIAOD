@@ -1,0 +1,3 @@
+/home/msi/Рабочий стол/SIAOD_COIN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/msi/Рабочий стол/SIAOD_COIN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/msi/Рабочий стол/SIAOD_COIN/cmake-build-debug/CMakeFiles/SIAOD_TAS.dir
