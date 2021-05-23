@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/msi/Рабочий стол/untitled/Ballon.h
+cstdlib
+-
+vector
+-
+
+/home/msi/Рабочий стол/untitled/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+Ballon.h
+/home/msi/Рабочий стол/untitled/Ballon.h
+
